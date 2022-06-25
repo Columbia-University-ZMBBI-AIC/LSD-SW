@@ -1,0 +1,4 @@
+# LedSyncDriver build property overrides
+#
+tools.stlinkv2.path={runtime.tools.xpack-arm-none-eabi-gcc.path}/bin  
+
